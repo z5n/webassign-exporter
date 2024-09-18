@@ -1,0 +1,6 @@
+.DS_Store
+utils/.env
+output.pdf
+export.pdf
+.history
+env
